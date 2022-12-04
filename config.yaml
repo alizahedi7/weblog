@@ -1,6 +1,6 @@
 baseurl: https://zahedi-ali.ir
 languageCode: en-us
-theme: hugo-theme-stack
+theme: stack
 paginate: 5
 title: Example Site
 
@@ -23,7 +23,7 @@ languages:
         weight: 3
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: stack
 
 # GA Tracking ID
 googleAnalytics:
